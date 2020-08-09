@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.wordbank.client","l":"Game"},{"p":"com.wordbank","l":"Player"},{"p":"com.wordbank","l":"Prompts"},{"p":"com.wordbank","l":"QuestionFactory"},{"p":"com.wordbank","l":"WordBankCollection"}]
